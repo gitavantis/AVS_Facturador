@@ -35,7 +35,6 @@ C:\WorK\Avantis\AVS_Facturador\AVSFacturador\bin\Debug\System.Web.Razor.xml
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\bin\Debug\System.Web.WebPages.xml
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\bin\Debug\System.Web.WebPages.Razor.xml
-C:\WorK\Avantis\AVS_Facturador\AVSFacturador\obj\Debug\AVSFacturador.csproj.AssemblyReference.cache
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\obj\Debug\AVSFacturador.csproj.CoreCompileInputs.cache
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\obj\Debug\AVSFacturador.csproj.CopyComplete
 C:\WorK\Avantis\AVS_Facturador\AVSFacturador\obj\Debug\AVSFacturador.dll
